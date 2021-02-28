@@ -1,0 +1,3 @@
+/home/rayane/CLionProjects/bubble_mind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rayane/CLionProjects/bubble_mind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rayane/CLionProjects/bubble_mind/cmake-build-debug/CMakeFiles/bubble_mind.dir
